@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+/Users/celiamanzano/Desktop/University/Curso de Java/PrimerosPasos/.metadata/.plugins/org.eclipse.jdt.core
+2920873237.index
+606814479.index
+1865797976.index

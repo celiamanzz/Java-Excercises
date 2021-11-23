@@ -1,0 +1,15 @@
+package poo;
+
+public class Uso_coche {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		//VOy a instanciar una clase
+		
+		Coche Renault=new Coche(); //Renault es una instancia de la clase coche
+		
+		//System.out.println("Este coche tiene "+ Renault.ruedas + "ruedas");
+		System.out.println(Renault.dime_largo());
+	}
+
+}
